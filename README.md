@@ -10,6 +10,9 @@
 
 > ~DESC~
 
+![npm bundle size](https://img.shields.io/bundlephobia/min/react)
+[More badges...](https://shields.io/)
+
 ## Installation
 
 ```
