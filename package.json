@@ -1,0 +1,33 @@
+{
+  "name": "create-readme-cli",
+  "version": "0.1.0",
+  "description": "CLI for generating a basic README",
+  "main": "src/index.js",
+  "bin": {
+    "create-readme": "bin/create-readme"
+  },
+  "scripts": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwilliam/readme.git"
+  },
+  "keywords": [
+    "readme",
+    "cli"
+  ],
+  "author": "William L <w-lindvall@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shwilliam/readme/issues"
+  },
+  "homepage": "https://github.com/shwilliam/readme#readme",
+  "dependencies": {
+    "arg": "^4.1.1",
+    "chalk": "^2.4.2",
+    "esm": "^3.2.25",
+    "inquirer": "^6.5.0"
+  }
+}
