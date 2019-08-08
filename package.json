@@ -1,7 +1,7 @@
 {
   "name": "create-readme-cli",
-  "version": "0.1.0",
-  "description": "CLI for generating a basic README",
+  "version": "0.1.1",
+  "description": "CLI for scaffolding a README",
   "main": "src/index.js",
   "bin": {
     "create-readme": "bin/create-readme"
