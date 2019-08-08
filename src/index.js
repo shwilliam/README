@@ -1,6 +1,5 @@
 import chalk from 'chalk'
 import fs from 'fs'
-import {promisify} from 'util'
 import makeReadmeContent from './template'
 
 const makeFile = async (filename, content) =>
