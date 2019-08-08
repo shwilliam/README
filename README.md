@@ -1,18 +1,26 @@
 # `create-readme` CLI
 
-> CLI for generating a basic README
+> CLI for scaffolding a README
 
 ## Installation
 
 ```shell
-$ npm i create-readme-cli
+$ npm i -g create-readme-cli
 ```
 
 ## Usage
 
 ```shell
-$ create-readme
+$ create-readme --badges --browsers
 ```
+
+## Options
+
+| CLI argument | Description                                                             |
+| ------------ | ----------------------------------------------------------------------- |
+| `--bmc`      | Enables prompt for [Buy Me a Coffee link](https://www.buymeacoffee.com) |
+| `--badges`   | Enables prompt for [shields badges](https://shields.io)                 |
+| `--browsers` | Enables prompt for browser compatibility table                          |
 
 ## Contributing
 
