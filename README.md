@@ -10,6 +10,8 @@ $ npm i -g create-readme-cli
 
 ## Usage
 
+Simply run `create-readme` followed by any [options](#options) and answer the prompts to create a `README.md` in your current directory. See [this README](https://github.com/shwilliam/README/blob/master/example/README.md) for an example of what will be generated.
+
 ```shell
 $ create-readme --badges --browsers
 ```
