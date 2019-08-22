@@ -2,6 +2,8 @@
 
 > CLI for scaffolding a README
 
+![Example use](https://user-images.githubusercontent.com/38357771/63540556-1de0ee00-c4d1-11e9-813f-15ce7dc1f298.gif)
+
 ## Installation
 
 ```shell
